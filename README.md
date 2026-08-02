@@ -1,6 +1,6 @@
 # Hey, I'm Roberto (Beto) 👋
 
-I'm always looking for ways to learn something new and put it into practice. Whether it's networking, automation, Linux, or Python, I enjoy building labs and documenting what I learn so I can keep improving as an engineer.
+I enjoy learning new technologies and then putting them to work by building labs, documenting what I learn, and challenging myself with real-world scenarios. For me, the best way to learn is by doing.Whether it's networking, automation, Linux, or Python, I enjoy building labs and documenting what I learn so I can keep improving as an engineer.
 
 I earned my CCNA and I'm currently studying for my CCNP Enterprise while continuing to build my skills in Security+, Linux, Python, network automation, and Cisco Modeling Labs (CML).
 
