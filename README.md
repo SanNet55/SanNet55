@@ -81,7 +81,7 @@ Every lab, script, topology, and project in this GitHub is something I've worked
 - Security+
 - Advanced Linux Administration
 - Python for Network Automation
-- AI-Assisted Infrastructure Engineering
+- AI-Driven Infrastructure & Automation
 - Network Architect
 
 ---
