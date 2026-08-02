@@ -1,12 +1,12 @@
 # Hey, I'm Roberto (Beto) 👋
 
-I enjoy learning new technologies and then putting them to work by building labs, documenting what I learn, and challenging myself with real-world scenarios. For me, the best way to learn is by doing.Whether it's networking, automation, Linux, or Python, I enjoy building labs and documenting what I learn so I can keep improving as an engineer.
+I enjoy learning new technologies and putting them to work through hands-on labs, documentation, and real-world scenarios. Whether it involves networking, automation, Linux, or Python, I believe the best way to learn is by building something, testing it, breaking it, fixing it, and understanding why it works.
 
-I earned my CCNA and I'm currently studying for my CCNP Enterprise while continuing to build my skills in Security+, Linux, Python, network automation, and Cisco Modeling Labs (CML).
+I earned my CCNA and I’m currently studying for the CCNP Enterprise while continuing to build my skills in Security+, Linux, Python, network automation, and Cisco Modeling Labs (CML).
 
-My goal isn't just to earn certifications. I want to understand how enterprise networks are designed, deployed, secured, automated, and troubleshot in the real world. I believe the best way to learn is by building, breaking things, figuring out why they broke, and documenting the entire process.
+My goal is not just to earn certifications. I want to understand how enterprise networks are designed, deployed, secured, automated, monitored, and troubleshot in real environments.
 
-This GitHub is where I'll be documenting that journey one project at a time.
+This GitHub is where I’ll document that journey, one project at a time.
 
 ---
 
@@ -16,8 +16,8 @@ This GitHub is where I'll be documenting that journey one project at a time.
 - Security+
 - Linux
 - Python
-- Cisco Modeling Labs (CML)
 - Network Automation
+- Cisco Modeling Labs (CML)
 - Building my engineering portfolio
 
 ---
@@ -27,14 +27,15 @@ This GitHub is where I'll be documenting that journey one project at a time.
 ### Networking
 
 - Cisco IOS
-- Routing & Switching
-- VLANs
-- STP
+- Routing and Switching
+- VLANs and Trunking
+- Spanning Tree Protocol
 - EtherChannel
 - OSPF
-- ACLs
+- Access Control Lists
 - NAT
 - Wireless Networking
+- Network Troubleshooting
 
 ### Operating Systems
 
@@ -42,9 +43,9 @@ This GitHub is where I'll be documenting that journey one project at a time.
 - Linux
 - macOS
 
-### Virtualization
+### Virtualization and Labs
 
-- Cisco Modeling Labs (CML)
+- Cisco Modeling Labs
 - VMware
 - Proxmox
 
@@ -54,38 +55,40 @@ This GitHub is where I'll be documenting that journey one project at a time.
 - Git
 - GitHub
 - Network Automation
+- CCNP Enterprise Technologies
 
 ---
 
 ## 📂 Featured Repositories
 
-- CCNA Labs
-- Cisco CML Labs
-- Engineering Standards
+- [CCNA Labs](https://github.com/SanNet55/CCNA-Labs)
+- [Cisco CML Labs](https://github.com/SanNet55/Cisco-CML-Labs)
 
-More projects will be added as I continue learning and documenting my work.
+More projects will be added as I continue learning, building, and documenting my work.
 
 ---
 
 ## 📚 My Approach
 
-I don't believe in just reading about technology I believe in building it.
+I don’t believe in only reading about technology. I believe in building it.
 
-Every lab, script, topology, and project in this GitHub is something I've worked through myself. Some projects are simple, while others become more advanced as I continue learning. I document everything because it helps me track my progress, improve my skills, and gives me something to look back on as I continue growing throughout my career.
+Every public lab, topology, script, and project on this GitHub represents something I have worked through myself. Some projects are simple, while others will become more advanced as I continue developing my skills.
+
+I document my work because it helps me understand the technology, track my progress, improve my troubleshooting process, and build a record of what I am capable of doing.
 
 ---
 
 ## 🎯 Long-Term Goals
 
-- CCNP Enterprise
-- Security+
-- Advanced Linux Administration
-- Python for Network Automation
-- AI-Driven Infrastructure & Automation
-- Network Architect
+- Earn the CCNP Enterprise certification
+- Earn the Security+ certification
+- Develop advanced Linux administration skills
+- Build Python and network automation projects
+- Gain deeper experience with enterprise infrastructure
+- Continue growing toward a Network Architect role
 
 ---
 
 Thanks for stopping by.
 
-This portfolio will continue to grow as I build new labs, learn new technologies, and gain more hands-on experience. My goal is for this GitHub to reflect not only what I've learned, but what I'm capable of building as I continue developing my career as a Network Engineer.
+This portfolio will continue to grow as I build new labs, learn new technologies, and gain more hands-on experience. My goal is for this GitHub to show not only what I have studied, but what I can build, configure, document, and troubleshoot as I continue developing my career as a Network Engineer.
